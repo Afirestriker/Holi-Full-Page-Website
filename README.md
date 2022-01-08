@@ -1,1 +1,1 @@
-# Holi-HTML-CSS-JS-Project
+# Holi-Vista (Full Page Website)
