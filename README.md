@@ -1,5 +1,4 @@
-
-![Holi-Vista-Logo](./img/HoliLogo.png)
+<img src="./img/HoliLogo.png" align="right" width="200" height="200"/>
 
 ## Hi, I'm Ashish! 👋
 
