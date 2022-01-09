@@ -22,7 +22,7 @@ HTML, CSS, Javascript.
 ![Greeting-Section](./ScreenShots/GreetingSection.png)
 
 ## Links:
-- View and Share Holi Greentings: (https://www.youtube.com/embed/xAfE4mnQAe8?controls=0)
+- View and Share Holi Greentings: <a href="https://www.youtube.com/embed/xAfE4mnQAe8?controls=0">Happy Holi #specialDays</a>
 
 ## 🚀 About Me
 I'm a full stack & Front-end Developer, I'm a curious learner and always gives my ideas a wings to fly. <a href="https://github.com/Afirestriker">Explore</a> to know more about me
