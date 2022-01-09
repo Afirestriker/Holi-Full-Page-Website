@@ -22,9 +22,7 @@ HTML, CSS, Javascript.
 ![Greeting-Section](./ScreenShots/GreetingSection.png)
 
 ## Links:
-- View and Share Holi Greentings
-[![Watch the video](./ScreenShots/HomeSection.png)](https://www.youtube.com/embed/xAfE4mnQAe8?controls=0)
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- View and Share Holi Greentings: (https://www.youtube.com/embed/xAfE4mnQAe8?controls=0)
 
 ## 🚀 About Me
 I'm a full stack & Front-end Developer, I'm a curious learner and always gives my ideas a wings to fly. <a href="https://github.com/Afirestriker">Explore</a> to know more about me
