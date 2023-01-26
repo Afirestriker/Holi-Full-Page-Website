@@ -1,6 +1,4 @@
-
 ## Hi, I'm Ashish! 👋
-
 
 # Holi-Vista (Full page website) <img src="./img/HoliLogo.png" align="left" width="60" height="60"/> 
 
